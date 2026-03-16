@@ -3,10 +3,7 @@ title: "Resume"
 ---
 
 
-
-## Resume
-
-You can download my resume below.
+You can download my resume below. 
 
 [Download Resume (PDF)](resume.pdf)
 

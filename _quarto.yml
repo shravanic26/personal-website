@@ -25,11 +25,6 @@ website:
         aria-label: LinkedIn
         target: _blank
 
-      - icon: github
-        href: https://github.com/YOUR-GITHUB
-        aria-label: GitHub
-        target: _blank
-
       - icon: envelope
         href: mailto:shravanic26@ucla.edu
         aria-label: Email

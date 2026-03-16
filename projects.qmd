@@ -147,7 +147,7 @@ Tools: Data Analysis · Research · Strategic Consulting · Web Development
 
 ::: {.industry-card}
 
-### Ronald McDonald House Charities — Volunteer Engagement Strategy
+### Ronald McDonald House Charities (Volunteer Engagement Strategy)
 
 <div class="project-meta">
 Project Manager • Apr 2025 – Jun 2025 • Contract
@@ -166,7 +166,7 @@ Tools: Data Analysis · Survey Analysis · Program Strategy · Stakeholder Resea
 
 ::: {.industry-card}
 
-### Palo Alto Medical Foundation — Healthcare Analytics
+### (Palo Alto Medical Foundation — Healthcare Analytics)
 
 <div class="project-meta">
 Consultant • Sep 2024 – Feb 2025
@@ -185,7 +185,7 @@ Tools: Python · Tableau · Excel · Data Analysis · Healthcare Analytics
 
 ::: {.industry-card}
 
-### FoodFinder:  National Food Pantry Data Initiative
+### FoodFinder (National Food Pantry Data Initiative)
 
 <div class="project-meta">
 Data Analyst • Nonprofit Data Infrastructure
@@ -204,7 +204,7 @@ Tools: Python · GeoPandas · Data Cleaning · Data Visualization · Tableau
 
 ::: {.industry-card}
 
-### Iconic — Financial Data Pipeline & Valuation Analysis
+### Iconic (M&A advisory firm)
 
 <div class="project-meta">
 Data Analytics Project • Mergers & Acquisitions Firm
