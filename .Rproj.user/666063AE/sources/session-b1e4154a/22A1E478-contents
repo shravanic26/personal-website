@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Shravani Chiddarwar"
+  site-url: https://shravanichiddarwar.com
+  description: "Personal website and portfolio for Shravani Chiddarwar — Statistics & Data Science student at UCLA."
+
+  navbar:
+    pinned: true
+    left:
+      - text: Home
+        href: index.qmd
+        
+      - text: About
+        href: about.qmd
+        
+      - text: Projects
+        href: projects.qmd
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shravani-chiddarwar-a98483246/
+        aria-label: LinkedIn
+        target: _blank
+
+      - icon: github
+        href: https://github.com/YOUR-GITHUB
+        aria-label: GitHub
+        target: _blank
+
+      - icon: envelope
+        href: mailto:shravanic26@ucla.edu
+        aria-label: Email
+
+  page-footer:
+    center: |
+      © 2026 **Shravani Chiddarwar**  
+      UCLA • Statistics & Data Science
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+editor: visual

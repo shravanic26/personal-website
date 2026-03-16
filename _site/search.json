@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a third-year Statistics and Data Science major at UCLA, with a minor in Global Health, originally from San Diego, California.\nMy academic interests include data science, statistical modeling, and applied analytics, particularly where data can help inform decision-making and improve real-world systems.\nAt UCLA, I am involved in Data Science Union, where I collaborate with peers on data-driven projects, and 180 Degrees Consulting, where we work with organizations to address operational and strategic challenges through analytical frameworks.\nI previously interned at Warner Music Group, first as a Finance Intern and later as a Data Science Intern within Warner Chappell Music. In these roles, I worked with the Global Digital Finance team on forecasting initiatives and internal analytics tools used to analyze digital music performance.\nI am also involved in research at UCLA in a causal inference lab under Professor Falco Bargagli-Stoffi, studying statistical methods for causal analysis in complex datasets.\nOutside of academics and work, I enjoy music, hiking, being in nature, and dancing."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi-im-shravani",
+    "href": "index.html#hi-im-shravani",
+    "title": "Home",
+    "section": "",
+    "text": "I am a third-year Statistics and Data Science major at UCLA, with a minor in Global Health, originally from San Diego, California.\nMy academic interests include data science, statistical modeling, and applied analytics, particularly where data can help inform decision-making and improve real-world systems.\nAt UCLA, I am involved in Data Science Union, where I collaborate with peers on data-driven projects, and 180 Degrees Consulting, where we work with organizations to address operational and strategic challenges through analytical frameworks.\nI previously interned at Warner Music Group, first as a Finance Intern and later as a Data Science Intern within Warner Chappell Music. In these roles, I worked with the Global Digital Finance team on forecasting initiatives and internal analytics tools used to analyze digital music performance.\nI am also involved in research at UCLA in a causal inference lab under Professor Falco Bargagli-Stoffi, studying statistical methods for causal analysis in complex datasets.\nOutside of academics and work, I enjoy music, hiking, being in nature, and dancing."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Home",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nBisection Method Visualization\nImplementation and visualization of the bisection root-finding algorithm.\n\nDemonstrates convergence behavior\nGraphically shows eliminated intervals\nBuilt using R and ggplot\n\nView Project\n\n\n\nAdditional Coursework\nProjects from STATS 140XP include:\n\nRoot finding algorithms\nNumerical optimization\nVisualization of iterative methods\nComputational statistics in R"
+  },
+  {
+    "objectID": "index.html#quick-demo",
+    "href": "index.html#quick-demo",
+    "title": "Home",
+    "section": "Quick Demo",
+    "text": "Quick Demo\n1 + 1"
+  },
+  {
+    "objectID": "index.html#coursework",
+    "href": "index.html#coursework",
+    "title": "Home",
+    "section": "Coursework",
+    "text": "Coursework\nBelow are selected courses I have completed as part of the Statistics and Data Science major at UCLA.\n\nProbability & Mathematical Statistics\n\n\nSTATS 100A — Introduction to Probability\n\n\nProbability distributions and random variables\n\nExpectation and vector-valued random variables\n\nFoundations of probabilistic modeling\n\n\n\n\nSTATS 100B — Introduction to Mathematical Statistics\n\n\nEstimation and hypothesis testing\n\nSampling distributions\n\nOne- and two-sample inference problems\n\n\n\n\n\nStatistical Modeling & Data Analysis\n\n\nSTATS 100C — Linear Models\n\n\nLinear regression and matrix-based modeling\n\nModel fitting and inference procedures\n\nResidual analysis and model diagnostics\n\nPrincipal component regression and model selection\n\n\n\n\nSTATS 101A — Introduction to Data Analysis and Regression\n\n\nMultiple regression and generalized linear models\n\nLogistic regression\n\nRegression diagnostics and graphical methods\n\nBootstrapping and statistical influence\n\n\n\n\n\nComputational Statistics & Data Science\n\n\nSTATS 102A — Computational Statistics\n\n\nNumerical methods for statistical problems\n\nSimulation and randomization tests\n\nBootstrapping techniques\n\nStatistical computing and programming\n\n\n\n\nCOM SCI 31 — Introduction to Computer Science I\n\n\nFundamental programming concepts using C++\n\nControl structures, functions, arrays, and strings\n\nRecursion and pointers\n\nIntroduction to object-oriented programming\n\n\n\n\nCOM SCI 32 — Introduction to Computer Science II\n\n\nObject-oriented software development and program design\n\nAbstract data types and data abstraction\n\nData structures including stacks, queues, and lists\n\nAlgorithm analysis and efficiency"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Home",
+    "section": "Projects",
+    "text": "Projects\nExplore selected projects I have worked on during my time at UCLA.\nView All Projects →"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Analysis Project • UCLA STATS 140XP\n\n\nAnalyzed U.S. H-1B visa application data to investigate trends in employment-based immigration\nExplored patterns in job roles, sponsoring companies, and wage distributions\nConducted data cleaning, exploratory analysis, and visualization\nProduced a reproducible Quarto report communicating statistical insights\n\n\nTools: R · Quarto · Data Visualization · Statistical Analysis\n\n\n\n\n\nMachine Learning Project • UCLA STATS 101C\n\n\nBuilt a natural language processing model to predict Goodreads review ratings\nProcessed a dataset containing 10,000 books and over 6 million ratings\nImplemented a neural network using PyTorch\nAchieved 88% prediction accuracy using sentiment signals in review text\n\n\nTools: Python · PyTorch · NLP · Machine Learning\n\n\n\n\n\nMachine Learning Project • UCLA STATS 101C\n\n\nDeveloped predictive models using regularized regression techniques\nImplemented LASSO and Ridge regression for feature selection and generalization\nTuned model hyperparameters to reduce overfitting\nEvaluated models using cross-validation and prediction error metrics\n\n\nTools: R · LASSO · Ridge Regression · Cross-Validation · Predictive Modeling"
+  },
+  {
+    "objectID": "projects.html#academic-research-projects",
+    "href": "projects.html#academic-research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Analysis Project • UCLA STATS 140XP\n\n\nAnalyzed U.S. H-1B visa application data to investigate trends in employment-based immigration\nExplored patterns in job roles, sponsoring companies, and wage distributions\nConducted data cleaning, exploratory analysis, and visualization\nProduced a reproducible Quarto report communicating statistical insights\n\n\nTools: R · Quarto · Data Visualization · Statistical Analysis\n\n\n\n\n\nMachine Learning Project • UCLA STATS 101C\n\n\nBuilt a natural language processing model to predict Goodreads review ratings\nProcessed a dataset containing 10,000 books and over 6 million ratings\nImplemented a neural network using PyTorch\nAchieved 88% prediction accuracy using sentiment signals in review text\n\n\nTools: Python · PyTorch · NLP · Machine Learning\n\n\n\n\n\nMachine Learning Project • UCLA STATS 101C\n\n\nDeveloped predictive models using regularized regression techniques\nImplemented LASSO and Ridge regression for feature selection and generalization\nTuned model hyperparameters to reduce overfitting\nEvaluated models using cross-validation and prediction error metrics\n\n\nTools: R · LASSO · Ridge Regression · Cross-Validation · Predictive Modeling"
+  },
+  {
+    "objectID": "projects.html#industry-projects",
+    "href": "projects.html#industry-projects",
+    "title": "Projects",
+    "section": "🏢 Industry Projects",
+    "text": "🏢 Industry Projects\n\nDigital Revenue Analytics (Warner Music Group)\n\nData Science Intern • Warner Chappell Music\n\n\nDeveloped analytics workflows to analyze global digital music revenue performance\nWorked with the Global Digital Finance team on forecasting and reporting initiatives\nBuilt internal tools for tracking streaming and publishing performance metrics\nGained exposure to digital music licensing and publishing agreements\n\n\nTools: Python · Data Analysis · Financial Analytics\n\n\n\nSupply Chain ETA Prediction (Kohl’s)\n\nMachine Learning Project • Retail Supply Chain\n\n\nDeveloped machine learning models to predict shipment arrival times\nImplemented models including Random Forest, Gradient Boosting, and regression approaches\nBuilt feature pipelines using logistics and transit data\nEvaluated model performance using error metrics and validation techniques\n\n\nTools: Python · XGBoost · Random Forest · Feature Engineering\n\n\n\nFleet Safety Analytics (Michelin Connected Fleet)\n\nData Science Consulting Project\n\n\nAnalyzed telematics data to evaluate driver braking behavior and fleet safety patterns\nInvestigated strategies for adaptive braking thresholds\nEvaluated tradeoffs between static and dynamic safety scoring models\nDeveloped an analytical framework for improving fleet safety metrics\n\n\nTools: Python · Statistical Analysis · Data Modeling\n\n\n\nLA River Community Infrastructure Initiative\n\nConsultant • Mar 2024 – Jun 2024\n\n\nCollaborated with a nonprofit organization working to develop a community park and infrastructure project along the Los Angeles River\nCollected and analyzed stakeholder and regional data to support investment and development strategy\nRedesigned the organization’s website and digital presence to improve outreach and transparency\nDeveloped a data-driven pitch deck outlining project impact, funding strategy, and community benefits for potential investors\n\n\nTools: Data Analysis · Research · Strategic Consulting · Web Development\n\n\n\nRonald McDonald House Charities — Volunteer Engagement Strategy\n\nProject Manager • Apr 2025 – Jun 2025 • Contract\n\n\nDeveloped a data-driven strategy to improve volunteer satisfaction and long-term engagement\nAnalyzed volunteer survey data to identify key barriers to retention and areas for program improvement\nDesigned recommendations to increase volunteer donation participation\nProposed a strategy projected to increase donated funds by approximately 40%\n\n\nTools: Data Analysis · Survey Analysis · Program Strategy · Stakeholder Research\n\n\n\nPalo Alto Medical Foundation — Healthcare Analytics\n\nConsultant • Sep 2024 – Feb 2025\n\n\nLed data collection from 1,600 physicians, analyzing survey responses in Excel to identify operational insights\nDesigned an interactive Tableau dashboard for real-time patient tracking and physician allocation\nUsed Python analysis to evaluate volunteer participation and support a healthcare pilot program serving 2,000 patients\nConducted market research on comparable programs and defined KPIs (participation rate, patient satisfaction) to improve pilot program performance by 20%\n\n\nTools: Python · Tableau · Excel · Data Analysis · Healthcare Analytics\n\n\n\nFoodFinder: National Food Pantry Data Initiative\n\nData Analyst • Nonprofit Data Infrastructure\n\n\nWorked with a national nonprofit database tracking food pantries and food assistance programs across the United States\nCleaned and standardized 50,000+ records using Python and regular expression parsing\nBuilt geographic visualizations and interactive maps using GeoPandas to identify gaps in food assistance coverage\nGenerated regional insights that enabled outreach to 6,000 food pantries nationwide\n\n\nTools: Python · GeoPandas · Data Cleaning · Data Visualization · Tableau\n\n\n\nIconic — Financial Data Pipeline & Valuation Analysis\n\nData Analytics Project • Mergers & Acquisitions Firm\n\n\nAutomated company valuation analysis by integrating Alpha Vantage API to extract financial data for public companies\nConducted rigorous quality assessments of multiple financial data sources, evaluating accuracy, completeness, and reliability before selecting the optimal dataset\nDeveloped a data pipeline to streamline comparison of valuation multiples including EV/Revenue and EV/EBITDA\nDesigned an interactive Tableau dashboard enabling users to adjust parameters and generate customized valuation forecasts\n\n\nTools: Python · Alpha Vantage API · Financial Data Analysis · Tableau"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can download my resume below.\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#resume",
+    "href": "resume.html#resume",
+    "title": "Resume",
+    "section": "",
+    "text": "You can download my resume below.\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Home",
+    "section": "Selected Projects",
+    "text": "Selected Projects\nBelow are a few projects I have worked on during my time at UCLA.\n\nH-1B Visa Labor Market Analysis\n\nPredictive Modeling with LASSO & Ridge Regression (Kaggle Competition)\n\nGoodreads Review Rating Prediction using NLP\n\nView All Projects →"
+  }
+]

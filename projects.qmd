@@ -1,0 +1,224 @@
+---
+title: "Projects"
+---
+
+## 🎓 Academic & Research Projects
+
+
+::: {.academic-card}
+
+### H-1B Visa Labor Market Analysis
+
+<div class="project-meta">
+Data Analysis Project • UCLA STATS 140XP
+</div>
+
+- Analyzed U.S. **H-1B visa application data** to investigate trends in employment-based immigration
+- Explored patterns in **job roles, sponsoring companies, and wage distributions**
+- Conducted data cleaning, exploratory analysis, and visualization
+- Produced a **reproducible Quarto report** communicating statistical insights
+
+<div class="project-tools">
+Tools: R · Quarto · Data Visualization · Statistical Analysis
+</div>
+
+:::
+
+
+
+::: {.academic-card}
+
+### Goodreads Review Rating Prediction
+
+<div class="project-meta">
+Machine Learning Project • UCLA STATS 101C
+</div>
+
+- Built a **natural language processing model** to predict Goodreads review ratings
+- Processed a dataset containing **10,000 books and over 6 million ratings**
+- Implemented a neural network using **PyTorch**
+- Achieved **88% prediction accuracy** using sentiment signals in review text
+
+<div class="project-tools">
+Tools: Python · PyTorch · NLP · Machine Learning
+</div>
+
+:::
+
+
+
+::: {.academic-card}
+
+### Kaggle Predictive Modeling Competition
+
+<div class="project-meta">
+Machine Learning Project • UCLA STATS 101C
+</div>
+
+- Developed predictive models using **regularized regression techniques**
+- Implemented **LASSO and Ridge regression** for feature selection and generalization
+- Tuned model hyperparameters to reduce overfitting
+- Evaluated models using cross-validation and prediction error metrics
+
+<div class="project-tools">
+Tools: R · LASSO · Ridge Regression · Cross-Validation · Predictive Modeling
+</div>
+
+:::
+## 🏢 Industry Projects
+
+::: {.industry-card}
+
+### Digital Revenue Analytics (Warner Music Group) 
+
+<div class="project-meta">
+Data Science Intern • Warner Chappell Music
+</div>
+
+- Developed analytics workflows to analyze **global digital music revenue performance**
+- Worked with the **Global Digital Finance team** on forecasting and reporting initiatives
+- Built internal tools for tracking **streaming and publishing performance metrics**
+- Gained exposure to **digital music licensing and publishing agreements**
+
+<div class="project-tools">
+Tools: Python · Data Analysis · Financial Analytics
+</div>
+
+:::
+
+
+::: {.industry-card}
+
+### Supply Chain ETA Prediction  (Kohl’s)
+
+<div class="project-meta">
+Machine Learning Project • Retail Supply Chain
+</div>
+
+- Developed machine learning models to predict **shipment arrival times**
+- Implemented models including **Random Forest, Gradient Boosting, and regression approaches**
+- Built feature pipelines using logistics and transit data
+- Evaluated model performance using error metrics and validation techniques
+
+<div class="project-tools">
+Tools: Python · XGBoost · Random Forest · Feature Engineering
+</div>
+
+:::
+
+
+::: {.industry-card}
+
+### Fleet Safety Analytics (Michelin Connected Fleet)
+
+<div class="project-meta">
+Data Science Consulting Project
+</div>
+
+- Analyzed telematics data to evaluate **driver braking behavior and fleet safety patterns**
+- Investigated strategies for **adaptive braking thresholds**
+- Evaluated tradeoffs between **static and dynamic safety scoring models**
+- Developed an analytical framework for improving fleet safety metrics
+
+<div class="project-tools">
+Tools: Python · Statistical Analysis · Data Modeling
+</div>
+
+:::
+
+::: {.industry-card}
+
+### LA River Community Infrastructure Initiative
+
+<div class="project-meta">
+Consultant • Mar 2024 – Jun 2024
+</div>
+
+- Collaborated with a nonprofit organization working to develop a **community park and infrastructure project along the Los Angeles River**
+- Collected and analyzed stakeholder and regional data to support **investment and development strategy**
+- Redesigned the organization’s **website and digital presence** to improve outreach and transparency
+- Developed a **data-driven pitch deck** outlining project impact, funding strategy, and community benefits for potential investors
+
+<div class="project-tools">
+Tools: Data Analysis · Research · Strategic Consulting · Web Development
+</div>
+
+:::
+
+::: {.industry-card}
+
+### Ronald McDonald House Charities — Volunteer Engagement Strategy
+
+<div class="project-meta">
+Project Manager • Apr 2025 – Jun 2025 • Contract
+</div>
+
+- Developed a **data-driven strategy** to improve volunteer satisfaction and long-term engagement
+- Analyzed volunteer survey data to identify **key barriers to retention** and areas for program improvement
+- Designed recommendations to **increase volunteer donation participation**
+- Proposed a strategy projected to **increase donated funds by approximately 40%**
+
+<div class="project-tools">
+Tools: Data Analysis · Survey Analysis · Program Strategy · Stakeholder Research
+</div>
+
+:::
+
+::: {.industry-card}
+
+### Palo Alto Medical Foundation — Healthcare Analytics
+
+<div class="project-meta">
+Consultant • Sep 2024 – Feb 2025
+</div>
+
+- Led data collection from **1,600 physicians**, analyzing survey responses in Excel to identify operational insights
+- Designed an **interactive Tableau dashboard** for real-time patient tracking and physician allocation
+- Used **Python analysis** to evaluate volunteer participation and support a healthcare pilot program serving 2,000 patients
+- Conducted market research on comparable programs and defined **KPIs (participation rate, patient satisfaction)** to improve pilot program performance by **20%**
+
+<div class="project-tools">
+Tools: Python · Tableau · Excel · Data Analysis · Healthcare Analytics
+</div>
+
+:::
+
+::: {.industry-card}
+
+### FoodFinder:  National Food Pantry Data Initiative
+
+<div class="project-meta">
+Data Analyst • Nonprofit Data Infrastructure
+</div>
+
+- Worked with a national nonprofit database tracking **food pantries and food assistance programs across the United States**
+- Cleaned and standardized **50,000+ records** using Python and regular expression parsing
+- Built geographic visualizations and **interactive maps using GeoPandas** to identify gaps in food assistance coverage
+- Generated regional insights that enabled outreach to **6,000 food pantries nationwide**
+
+<div class="project-tools">
+Tools: Python · GeoPandas · Data Cleaning · Data Visualization · Tableau
+</div>
+
+:::
+
+::: {.industry-card}
+
+### Iconic — Financial Data Pipeline & Valuation Analysis
+
+<div class="project-meta">
+Data Analytics Project • Mergers & Acquisitions Firm
+</div>
+
+- Automated company valuation analysis by integrating **Alpha Vantage API** to extract financial data for public companies
+- Conducted rigorous quality assessments of multiple financial data sources, evaluating **accuracy, completeness, and reliability** before selecting the optimal dataset
+- Developed a **data pipeline** to streamline comparison of valuation multiples including **EV/Revenue and EV/EBITDA**
+- Designed an **interactive Tableau dashboard** enabling users to adjust parameters and generate customized valuation forecasts
+
+<div class="project-tools">
+Tools: Python · Alpha Vantage API · Financial Data Analysis · Tableau
+</div>
+
+:::
+
+---

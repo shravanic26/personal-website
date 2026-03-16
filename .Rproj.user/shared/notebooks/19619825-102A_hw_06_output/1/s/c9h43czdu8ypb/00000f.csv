@@ -1,0 +1,3 @@
+"0","hsb <- read.csv(""https://raw.githubusercontent.com/zief0002/comparing-groups/master/data/HSB.csv"")"
+"0",""
+"0","head(hsb)"

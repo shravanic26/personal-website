@@ -1,0 +1,31 @@
+{
+    "id": "B14274B9",
+    "path": "~/Documents/STATS 140 XP /personal_website/projects.qmd",
+    "project_path": "projects.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1773621656866.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,3",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "29:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773642656,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773642759601,
+    "read_only": false,
+    "read_only_alternatives": []
+}

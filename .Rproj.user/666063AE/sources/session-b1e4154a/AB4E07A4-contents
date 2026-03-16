@@ -1,0 +1,170 @@
+---
+title: "Home"
+format: html
+---
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+<!-- insert picture of me and leena here -->
+<!-- insert picture of me at Tahoe here -->
+
+![](images/profile.jpg){width=100% style="border-radius:12px;"}
+
+:::
+
+::: {.column width="65%"}
+
+## Hi, I'm Shravani 👋
+
+I am a third-year Statistics and Data Science major at UCLA, with a minor in Global Health, originally from San Diego, California. My academic interests include data science, statistical modeling, and applied analytics.
+
+At UCLA, I am involved in Data Science Union, where I collaborate with peers on data-driven projects, and 180 Degrees Consulting, where we work with organizations to address operational and strategic challenges through analytical frameworks.
+
+I previously interned at Warner Music Group, first as a Finance Intern and later as a Data Science Intern within Warner Chappell Music. In these roles, I worked with the Global Digital Finance team on forecasting initiatives and internal analytics tools used to analyze digital music performance. During this experience, I also gained exposure to aspects of music licensing and observed negotiation processes related to digital publishing agreements.
+
+In addition to industry experience, I am involved in research at UCLA in a causal inference lab under Professor Falco Bargagli-Stoffi, where I study statistical methods for causal analysis in complex datasets.
+
+Outside of academics and work, I enjoy music, hiking, being in nature, and dancing.
+
+Below, I have highlighted several projects I have worked on during my time at UCLA.
+
+:::
+
+:::
+
+---
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/shravani-chiddarwar-a98483246/){.btn .btn-primary}
+
+[GitHub](https://github.com/YOUR-GITHUB){.btn .btn-secondary}
+
+[Email](mailto:shravanic26@ucla.edu){.btn .btn-outline-dark}
+
+---
+
+## Coursework
+
+Below are selected courses I have completed as part of the **Statistics and Data Science major at UCLA**.
+
+### Probability & Mathematical Statistics
+
+<details>
+<summary><strong>STATS 100A — Introduction to Probability</strong></summary>
+
+- Probability distributions and random variables  
+- Expectation and vector-valued random variables  
+- Foundations of probabilistic modeling  
+
+</details>
+
+<details>
+<summary><strong>STATS 100B — Introduction to Mathematical Statistics</strong></summary>
+
+- Estimation and hypothesis testing  
+- Sampling distributions  
+- One- and two-sample inference problems  
+
+</details>
+
+---
+
+### Statistical Modeling & Data Analysis
+
+<details>
+<summary><strong>STATS 100C — Linear Models</strong></summary>
+
+- Linear regression and matrix-based modeling  
+- Model fitting and inference procedures  
+- Residual analysis and model diagnostics  
+- Principal component regression and model selection  
+
+</details>
+
+<details>
+<summary><strong>STATS 101A — Introduction to Data Analysis and Regression</strong></summary>
+
+- Multiple regression and generalized linear models  
+- Logistic regression  
+- Regression diagnostics and graphical methods  
+- Bootstrapping and statistical influence  
+
+</details>
+
+<details>
+<summary><strong>STATS 101B — Design and Analysis of Experiments</strong></summary>
+
+- Experimental design and randomization  
+- ANOVA and multiple comparisons  
+- Power analysis and sample size determination  
+- Block and factorial designs  
+
+</details>
+
+<details>
+<summary><strong>STATS 101C — Statistical Models and Data Mining</strong></summary>
+
+- Applied regression modeling  
+- Generalized linear models  
+- Model diagnostics and modern regression methods  
+
+</details>
+
+---
+
+### Computational Statistics & Data Science
+
+<details>
+<summary><strong>STATS 102A — Introduction to Computational Statistics</strong></summary>
+
+- Numerical methods for statistical problems  
+- Simulation and randomization tests  
+- Bootstrapping techniques  
+- Statistical computing and programming  
+
+</details>
+
+<details>
+<summary><strong>STATS 102B — Computation and Optimization for Statistics</strong></summary>
+
+- Numerical optimization methods  
+- Matrix and vector computation  
+- Principal component analysis and clustering  
+- Gradient-based optimization techniques  
+
+</details>
+
+<details>
+<summary><strong>COM SCI 31 — Introduction to Computer Science I</strong></summary>
+
+- Fundamental programming concepts using C++  
+- Control structures, functions, arrays, and strings  
+- Recursion and pointers  
+- Procedural abstraction and introduction to object-oriented programming  
+
+</details>
+
+<details>
+<summary><strong>COM SCI 32 — Introduction to Computer Science II</strong></summary>
+
+- Object-oriented software development and program design  
+- Abstract data types and data abstraction  
+- Data structures including stacks, queues, and lists  
+- Algorithm analysis and efficiency  
+- Trees, graphs, searching, and sorting algorithms  
+
+</details>
+
+---
+
+## Projects
+
+Explore selected projects I have worked on during my time at UCLA.
+
+[View All Projects →](projects.qmd){.btn .btn-primary .btn-lg}
+
+---
+

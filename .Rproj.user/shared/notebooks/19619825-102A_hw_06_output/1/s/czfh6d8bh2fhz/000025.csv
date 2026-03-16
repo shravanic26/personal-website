@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0","boxplot(Victim ~ Treatment,"
+"0","       data = after_school,"
+"0","       col = c(""lightblue"",""lightgreen""),"
+"0","       main = ""Victimization Scores by Treatment Group"","
+"0","       xlab = ""Treatment (0 = Control, 1 = After-School Program)"","
+"0","       ylab = ""Victimization Score"")"

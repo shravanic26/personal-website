@@ -1,0 +1,3 @@
+"0","after_school <- read.csv(""https://raw.githubusercontent.com/zief0002/comparing-groups/master/data/AfterSchool.csv"")"
+"0",""
+"0","head(after_school)"

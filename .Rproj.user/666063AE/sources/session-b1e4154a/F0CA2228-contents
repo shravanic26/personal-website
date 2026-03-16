@@ -1,0 +1,134 @@
+---
+title: "Report Title"
+execute:
+  echo: false
+format:
+  jasa-pdf:
+    keep-tex: true  
+    journal:
+      blinded: false
+  jasa-html: default
+date: last-modified
+author:
+  - name: Author 1
+    acknowledgements: | 
+      The authors gratefully acknowledge _please remember to list all relevant funding sources in the non-anonymized (unblinded) version_.
+    affiliations:
+      - name: UCLA
+        department: Department of Statistics and Data Science
+  - name: Author 2
+    affiliations:
+      - name: UCLA
+        department: Department of Statistics and Data Science
+abstract: |
+  The text of your abstract. 200 or fewer words.
+keywords:
+  - 3 to 6 keywords
+  - that do not appear in the title
+bibliography: bibliography.bib  
+---
+
+## Introduction {#sec-intro}
+
+This template was modified using: https://github.com/quarto-journals/jasa
+Body of paper.
+Margins in this document are roughly 0.75 inches all around, letter size paper.  Margins can be changed in _include-in-header.tex 
+
+## Plots & Tables {#sec-plots}
+
+R or Python chunks can be inserted with labels.  Set echo = FALSE in the header execute or in the chunk option.
+
+```{r fig.height=6}
+#| label: fig-first
+#| fig-cap: "Charts"
+#| fig-subcap: 
+#|   - "Cars"
+#|   - "Pressure"
+#| layout-ncol: 2
+plot(cars)
+plot(pressure)
+```
+
+If echo = FALSE does not silence the rendered code completely, adding the chunk options message=FALSE, warning=FALSE may help.
+
+
+```{r message=FALSE, warning=FALSE}
+#| label: tbl-one
+#| tbl-cap: A nice t-test
+
+library(rempsyc)
+nice_t_test(
+  data = mtcars,
+  response = names(mtcars)[1:6],
+  group = "am",
+  correction = "bonferroni",
+  warning = FALSE
+) |>
+  nice_table()
+```
+
+- Note that figures and tables (such as @fig-first and @tbl-one) should appear in the paper, not at the end or in separate files.
+- These points are only intended to remind you of some requirements.
+Please refer to the instructions for authors
+at [http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c](http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c)
+- For more about ASA\ style, please see [https://files.taylorandfrancis.com/asa-style-guide.pdf](https://files.taylorandfrancis.com/asa-style-guide.pdf).
+- If you have supplementary material (e.g., software, data, technical
+proofs), identify them in the section below.  In early stages of the
+submission process, you may be unsure what to include as supplementary
+material.  Don't worry---this is something that can be worked out at later stages.
+
+## Methods {#sec-meth}
+
+Don't take any of these section titles seriously.
+They're just for illustration.
+
+## Verifications {#sec-verify}
+
+This section will be just long enough to illustrate what a full page of text looks like, for margins and spacing.
+
+@gelm:veht:2021 offer some guidance about key ideas about statistical ideas.
+An accessible overview of the field of statistical learning.
+[@james2023introduction].
+Log-linear models are an attractive way to model categorical data [@bish:fien:1975].
+
+Topping tootsie roll halvah brownie donut liquorice lollipop. Powder macaroon soufflé bonbon sweet roll. Toffee carrot cake chocolate macaroon cookie chocolate cake sugar plum topping pie. Donut donut apple pie oat cake fruitcake cake. Cotton candy donut marshmallow cookie sesame snaps jujubes toffee chocolate cake. Muffin carrot cake dragée icing gummies lemon drops pudding oat cake candy canes. Tiramisu gummies sweet gummi bears topping sesame snaps shortbread. Caramels sweet roll pastry chocolate cake wafer powder sugar plum danish. Cheesecake cheesecake marshmallow ice cream tiramisu. Cake chocolate bar topping chocolate bar oat cake bonbon. Brownie chupa chups sweet roll liquorice powder bonbon icing croissant chupa chups. Candy canes gummies carrot cake ice cream tart.
+
+Cheesecake gummi bears soufflé croissant candy cheesecake. Muffin icing tiramisu macaroon danish chocolate bar lollipop. Cake muffin sweet fruitcake pie marshmallow lollipop pastry. Tart powder brownie jelly beans gummi bears shortbread. Candy canes toffee bear claw liquorice gummi bears jujubes tootsie roll oat cake. Jelly macaroon muffin biscuit lemon drops cupcake cupcake apple pie. Jelly-o marzipan icing tart cookie. Candy canes jelly gingerbread pastry wafer cake. Pie muffin gingerbread cotton candy bonbon brownie. Dessert pastry cotton candy halvah tart chocolate. Candy candy canes shortbread fruitcake halvah tart cupcake. Fruitcake oat cake oat cake fruitcake lollipop bonbon donut icing macaroon.
+
+Jelly beans jelly jujubes cheesecake pie marzipan dragée marzipan sweet. Soufflé wafer lollipop dragée cupcake lemon drops macaroon toffee. Apple pie cotton candy topping jelly-o sweet roll muffin apple pie. Bonbon pie apple pie cheesecake muffin. Sweet icing dessert cake gingerbread donut cake shortbread. Gingerbread fruitcake pudding halvah jelly jelly-o. Brownie croissant croissant lemon drops lemon drops lollipop sweet. Croissant jelly icing bonbon jujubes pudding lemon drops tart topping. Candy biscuit caramels cake oat cake wafer lollipop jujubes. Donut apple pie tart biscuit plum candy canes pudding.
+
+Candy canes ice cream carrot cake caramels wafer cotton candy biscuit. Croissant macaroon wafer lollipop topping ice cream. Caramels biscuit ice cream danish marshmallow cake gingerbread. Cookie lemon drops jelly-o dessert liquorice sesame snaps. Lollipop jelly-o sugar plum candy canes pudding oat cake marzipan. Oat cake jelly-o powder dessert macaroon. Lemon drops croissant carrot cake danish croissant. Liquorice cake powder cupcake cupcake fruitcake muffin dragée macaroon. Brownie cheesecake bear claw cookie shortbread sugar plum icing. Cotton candy gummi bears tart fruitcake marshmallow cake dragée cake. Jelly sugar plum bonbon toffee caramels danish chocolate cake sweet. Sweet roll gummi bears shortbread sweet oat cake powder tart marshmallow ice cream. Chocolate fruitcake apple pie chocolate cake shortbread candy canes dragée. Candy macaroon croissant tootsie roll marzipan oat cake.
+
+Jelly-o biscuit apple pie ice cream topping gummi bears liquorice bonbon marshmallow. 
+
+## Conclusion {#sec-conc}
+
+Some type of assessment/conclusion is nice as a consultant
+
+## Disclosure statement
+
+The authors have the following conflicts of interest to declare (or replace with a statement that no conflicts of interest exist).
+
+## Data Availability Statement
+
+Deidentified data have been made available at the following URL: XX.
+
+## Supplementary Material {.supplementary}
+
+Title:
+
+:   Brief description. (file type)
+
+
+R-package for  MYNEW routine: 
+
+:   R-package MYNEW containing code to perform the diagnostic methods described in the article. The package also contains all datasets used as examples in the article. (GNU zipped tar file)
+
+HIV data set:
+
+:   Data set used in the illustration of MYNEW method in @sec-verify (.txt file).
+
+## BibTeX 
+
+We encourage you to use BibTeX (for example, Google Scholar cite).  Do examine the file bibliography.bib.
+ 

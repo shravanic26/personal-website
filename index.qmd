@@ -1,0 +1,137 @@
+---
+title: "Home"
+format: html
+---
+
+## Hi, I'm Shravani 👋
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+I am a third-year **Statistics and Data Science major at UCLA**, with a minor in **Global Health**, originally from San Diego, California.
+
+My academic interests include **data science, statistical modeling, and applied analytics**, particularly where data can help inform decision-making and improve real-world systems.
+
+At UCLA, I am involved in **Data Science Union**, where I collaborate with peers on data-driven projects, and **180 Degrees Consulting**, where we work with organizations to address operational and strategic challenges through analytical frameworks.
+
+I previously interned at **Warner Music Group**, first as a Finance Intern and later as a Data Science Intern within Warner Chappell Music. In these roles, I worked with the Global Digital Finance team on forecasting initiatives and internal analytics tools used to analyze digital music performance.
+
+I am also involved in **research at UCLA in a causal inference lab under Professor Falco Bargagli-Stoffi**, studying statistical methods for causal analysis in complex datasets.
+
+Outside of academics and work, I enjoy **music, hiking, being in nature, and dancing**.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/image_1.JPG)
+
+![](images/image_2.JPG)
+
+:::
+
+:::
+
+---
+
+## Selected Projects
+
+Below are a few projects I have worked on during my time at UCLA.
+
+- **H-1B Visa Labor Market Analysis**  
+- **Predictive Modeling with LASSO & Ridge Regression (Kaggle Competition)**  
+- **Goodreads Review Rating Prediction using NLP**
+
+[View All Projects →](projects.qmd)
+
+---
+
+## Coursework
+
+Below are selected courses I have completed as part of the **Statistics and Data Science major at UCLA**.
+
+### Probability & Mathematical Statistics
+
+<details>
+
+<summary><strong>STATS 100A — Introduction to Probability</strong></summary>
+
+- Probability distributions and random variables  
+- Expectation and vector-valued random variables  
+- Foundations of probabilistic modeling  
+
+</details>
+
+<details>
+
+<summary><strong>STATS 100B — Introduction to Mathematical Statistics</strong></summary>
+
+- Estimation and hypothesis testing  
+- Sampling distributions  
+- One- and two-sample inference problems  
+
+</details>
+
+---
+
+### Statistical Modeling & Data Analysis
+
+<details>
+
+<summary><strong>STATS 100C — Linear Models</strong></summary>
+
+- Linear regression and matrix-based modeling  
+- Model fitting and inference procedures  
+- Residual analysis and model diagnostics  
+- Principal component regression and model selection  
+
+</details>
+
+<details>
+
+<summary><strong>STATS 101A — Introduction to Data Analysis and Regression</strong></summary>
+
+- Multiple regression and generalized linear models  
+- Logistic regression  
+- Regression diagnostics and graphical methods  
+- Bootstrapping and statistical influence  
+
+</details>
+
+---
+
+### Computational Statistics & Data Science
+
+<details>
+
+<summary><strong>STATS 102A — Computational Statistics</strong></summary>
+
+- Numerical methods for statistical problems  
+- Simulation and randomization tests  
+- Bootstrapping techniques  
+- Statistical computing and programming  
+
+</details>
+
+<details>
+
+<summary><strong>COM SCI 31 — Introduction to Computer Science I</strong></summary>
+
+- Fundamental programming concepts using C++  
+- Control structures, functions, arrays, and strings  
+- Recursion and pointers  
+- Introduction to object-oriented programming  
+
+</details>
+
+<details>
+
+<summary><strong>COM SCI 32 — Introduction to Computer Science II</strong></summary>
+
+- Object-oriented software development and program design  
+- Abstract data types and data abstraction  
+- Data structures including stacks, queues, and lists  
+- Algorithm analysis and efficiency  
+
+</details>
